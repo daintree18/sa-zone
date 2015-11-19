@@ -2,7 +2,7 @@
 
 /*jshint camelcase: false */
 
-angular.module('ngSaApp')
+angular.module('saZone')
 	.factory('Zone', function ()
 	{
 	    function Zone(data)
