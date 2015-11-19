@@ -1,0 +1,11 @@
+{
+  "name": "sa-zone",
+  "main": [
+  	"zone.api.service.js",
+	"zone.model.js",
+	"zone.model.spec.js"
+  ],
+  "ignore": [
+  ]
+}
+
