@@ -2,7 +2,7 @@
 
 /*jshint camelcase: false */
 
-angular.module('sa-zone')
+angular.module('saZone')
   	.service('zoneApi', function (api, Zone, $q)
 	{
   	    this.get = function (uuid)
